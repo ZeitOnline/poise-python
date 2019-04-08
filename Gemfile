@@ -33,3 +33,5 @@ dev_gem 'poise-archive'
 dev_gem 'poise-boiler'
 dev_gem 'poise-languages'
 dev_gem 'poise-profiler'
+
+gem 'rake'

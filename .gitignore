@@ -6,6 +6,9 @@ test/gemfiles/*.lock
 test/docker/
 test/ec2/
 coverage/
-pkg/
 .yardoc/
 doc/
+# wosc: buildsystem
+ruby/
+bin/
+.bundle/
